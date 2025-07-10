@@ -67,13 +67,15 @@ Here are some resources to help you better interpret the results:
 
 ### Create a Short Presentation
 
-Now that you’ve analyzed the results and identified the most vulnerable teams, it’s time to create a **short presentation** (3-5 slides) that will provide phishing awareness and training to those teams.
+After analyzing the results and identifying the teams most vulnerable to phishing, the next step was to design a **short presentation** (3-5 slides) aimed at providing phishing awareness and training to those teams.
 
-You can find the presentation you’ve created below:
+You can download the final presentation (in **PDF** format) below:
 
-#### [Phishing Awareness Training Presentation](#)
+#### [Phishing Awareness Training Presentation (PDF)](./presentations/phishing_awareness_training.pdf)
 
-(Replace `#` with the actual link or path to the presentation file)
+Additionally, you can find the **PowerPoint template** used to create the presentation here:
+
+#### [Phishing Awareness Training Template (PPT)](./presentations/phishing_awareness_training_template.pptx)
 
 ---
 
