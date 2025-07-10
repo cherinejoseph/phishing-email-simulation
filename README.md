@@ -12,7 +12,7 @@ In **Task 1**, I was tasked with creating a **realistic phishing email** to simu
 
 **Key Objective**: To improve an obvious fake phishing email, making it contextual, relevant, and convincing for a Mastercard employee.
 
-For more details, view the full Task 1 file [here](./task1.md).
+For more details, view the full Task 1 file [here](https://github.com/cherinejoseph/phishing-email-simulation/blob/main/task1.md).
 
 ## Task 2: Analyze Responses and Improve Future Simulations
 
@@ -20,7 +20,7 @@ In **Task 2**, I evaluated how employees responded to the phishing emails in the
 
 **Key Objective**: To analyze employee responses to phishing attempts and propose strategies for enhancing future phishing awareness campaigns.
 
-For more details, view the full Task 2 file [here](./task2.md).
+For more details, view the full Task 2 file [here](https://github.com/cherinejoseph/phishing-email-simulation/blob/main/task2.md).
 
 ## Learning Outcomes
 
