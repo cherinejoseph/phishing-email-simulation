@@ -71,11 +71,11 @@ After analyzing the results and identifying the teams most vulnerable to phishin
 
 You can download the final presentation (in **PDF** format) below:
 
-#### [Phishing Awareness Training Presentation (PDF)](./presentations/phishing_awareness_training.pdf)
+#### [Phishing Awareness Training Presentation (PDF)](https://github.com/cherinejoseph/phishing-email-simulation/blob/main/Phishing-Awareness-Training-Presentation.pdf)
 
 Additionally, you can find the **PowerPoint template** used to create the presentation here:
 
-#### [Phishing Awareness Training Template (PPT)](./presentations/phishing_awareness_training_template.pptx)
+#### [Phishing Awareness Training Template (PPT)](https://github.com/cherinejoseph/phishing-email-simulation/blob/main/Phishing-Awareness-Training-Template.pptx)
 
 ---
 
